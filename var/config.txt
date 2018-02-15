@@ -1,3 +1,0 @@
-{
-    "api_token": "543114234:AAEY3XXF1OAM4c_tPloudOKhpMioy7yZyOY"
-}
